@@ -1,0 +1,19 @@
+.Title {
+    color: lavender;
+}
+
+.IngredientsList {
+    color:chartreuse;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.unlisted li {
+    color:coral;
+    background-color:cornflowerblue;
+}
+
+li {
+    color:cornflowerblue;
+    background-color:coral;
+}
